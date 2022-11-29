@@ -1,0 +1,25 @@
+section {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+div {
+    background-color: red;
+    width: 15%;
+    height: 90px;
+}
+ 
+#bizar {
+    width: 350px;
+}
+
+p {
+    text-align: center;
+    margin-top: 15%;
+}
+
+#bizare {
+    text-align: center;
+    margin-top: 10%;
+}
